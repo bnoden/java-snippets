@@ -1,5 +1,4 @@
-// Brandon Oden 1406334
-// Mr. Smiley ITSE-2417-32040
+// Brandon Oden
 // Create large dataset
 
 import java.io.PrintWriter;
